@@ -14,7 +14,7 @@ Invece di visualizzare la password nella index, effettuare un redirect ad una pa
 
 <?php
 
-include './partials/functions.php';
+include_once './partials/functions.php';
 
 ?>
 
